@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a collection of Python programs developed as part of the coursework for the module **COMP40003 Software Development and Application Modelling 1**. 
+This repository contains a collection of Python programs developed as part of the coursework for the module **COMP40003 Software Development and Application Modelling-1**. 
 The programs were created in response to weekly portfolio questions aimed at enhancing programming skills and contributing to the final marks.
 
 ## Directory Structure
